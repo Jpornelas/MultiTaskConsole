@@ -1,0 +1,7 @@
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\bin\Debug\MultiThreadConsole.exe.config
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\bin\Debug\MultiThreadConsole.exe
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\bin\Debug\MultiThreadConsole.pdb
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\obj\Debug\MultiThreadConsole.csprojAssemblyReference.cache
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\obj\Debug\MultiThreadConsole.csproj.CoreCompileInputs.cache
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\obj\Debug\MultiThreadConsole.exe
+C:\Users\joao.martins\source\repos\MultiThreadConsole\MultiThreadConsole\obj\Debug\MultiThreadConsole.pdb
